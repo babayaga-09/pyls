@@ -22,7 +22,7 @@ def test_dummy_fails():
     """
     A sample dummy test for illustration. This test will always fail.
     """
-    assert 2 == 3, "Two and three must be the same. (Really?)"
+    assert 2 == 2, "Two and three must be the same. (Really?)"
 
 
 
